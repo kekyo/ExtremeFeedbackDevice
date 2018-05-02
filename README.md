@@ -15,6 +15,10 @@ TODO:
 
 * I'll order PCB to [Fusion PCB](https://www.seeedstudio.com/fusion_pcb.html).
 
+![Schematic](images/Schematic.png)
+
+![Artwork](images/Artwork.png)
+
 ## License
 
 * Under Apache v2
