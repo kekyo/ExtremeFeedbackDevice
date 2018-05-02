@@ -5,9 +5,9 @@ TODO: Finished XFD photo.
 ## What's this?
 
 * It's extreme feedback device (called XFD useful agile software development) running on ESP8266 (aka ESP-WROOM-02).
-* I made custom schematic and artwork from scratch.
+* I made custom schematic and artwork.
   * Use EAGLE 8
-* I wrote sequencer code by C++ on ESP8266-Arduino IDE.
+* I wrote sequencer code by C++ on ESP8266-Arduino IDE. (WIP)
 
 ## Features
 
@@ -32,8 +32,8 @@ TODO: Finished XFD photo.
 ## History
 
 * At first, I was exciting agile software development weaves. I made XFD device in 2006.
-* It was very standard formal style, using the signal light.
-* I have no idea how to communicate easy way between PC/Server and devices. So I made with PC's printer parallel port.
+  * It was very standard formal style, using the signal light.
+  * I did have no idea how to communicate easy way between PC/Server and devices. So I made with PC's printer parallel port.
 
 ![Old XFD by parallel interface](images/OldParallelXFD.jpg)
 
