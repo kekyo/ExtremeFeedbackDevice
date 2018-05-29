@@ -1,6 +1,8 @@
 # Extreme feedback device (XFD) on ESP8266
 
-TODO: Finished XFD photo.
+![Assembled unit (version 1)](images/v1/Assembled.jpg)
+
+* Still under construction...
 
 ## What's this?
 
@@ -21,15 +23,15 @@ TODO: Finished XFD photo.
 
 * I'll order PCB to [Fusion PCB](https://www.seeedstudio.com/fusion_pcb.html).
 
-![Schematic](images/Schematic.png)
+![Schematic](images/v1/Schematic.png)
 
-![Artwork](images/Artwork.png)
+![Artwork](images/v1/Artwork.png)
 
 ## License
 
 * Under Apache v2
 
-## History
+## Background
 
 * At first, I was exciting agile software development weaves. I made XFD device in 2006.
   * It was very standard formal style, using the signal light.
@@ -39,3 +41,7 @@ TODO: Finished XFD photo.
 
 * Today, we can communicate easier using a lot of procedures, USB/LAN/Wifi/Bluetooth and more. The parallel port obsoleted.
 * I'm beginning to redesign for modern-style device communication. The ESP8266 totally better balanced module for IoT platform. I use ESP8266 and redesign XFD for basic boilerplate :)
+
+## History
+
+* first_pcb: Designed output signal with darlington transistor array. It's very simple board, contains only ESP-WROOM-02 and TrA.
